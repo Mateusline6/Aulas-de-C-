@@ -1,0 +1,11 @@
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ConversaoImplicitaCasting\ConversaoImplicitaCasting\bin\Debug\netcoreapp3.0\ConversaoImplicitaCasting.exe
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ConversaoImplicitaCasting\ConversaoImplicitaCasting\bin\Debug\netcoreapp3.0\ConversaoImplicitaCasting.deps.json
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ConversaoImplicitaCasting\ConversaoImplicitaCasting\bin\Debug\netcoreapp3.0\ConversaoImplicitaCasting.runtimeconfig.json
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ConversaoImplicitaCasting\ConversaoImplicitaCasting\bin\Debug\netcoreapp3.0\ConversaoImplicitaCasting.runtimeconfig.dev.json
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ConversaoImplicitaCasting\ConversaoImplicitaCasting\bin\Debug\netcoreapp3.0\ConversaoImplicitaCasting.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ConversaoImplicitaCasting\ConversaoImplicitaCasting\bin\Debug\netcoreapp3.0\ConversaoImplicitaCasting.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\netcoreapp3.0\ConversaoImplicitaCasting.csprojAssemblyReference.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\netcoreapp3.0\ConversaoImplicitaCasting.AssemblyInfoInputs.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\netcoreapp3.0\ConversaoImplicitaCasting.AssemblyInfo.cs
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\netcoreapp3.0\ConversaoImplicitaCasting.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\netcoreapp3.0\ConversaoImplicitaCasting.pdb

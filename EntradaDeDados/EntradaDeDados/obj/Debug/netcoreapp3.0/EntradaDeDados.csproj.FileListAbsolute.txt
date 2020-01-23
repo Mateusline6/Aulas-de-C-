@@ -1,0 +1,10 @@
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\EntradaDeDados\EntradaDeDados\bin\Debug\netcoreapp3.0\EntradaDeDados.exe
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\EntradaDeDados\EntradaDeDados\bin\Debug\netcoreapp3.0\EntradaDeDados.deps.json
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\EntradaDeDados\EntradaDeDados\bin\Debug\netcoreapp3.0\EntradaDeDados.runtimeconfig.json
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\EntradaDeDados\EntradaDeDados\bin\Debug\netcoreapp3.0\EntradaDeDados.runtimeconfig.dev.json
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\EntradaDeDados\EntradaDeDados\bin\Debug\netcoreapp3.0\EntradaDeDados.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\EntradaDeDados\EntradaDeDados\bin\Debug\netcoreapp3.0\EntradaDeDados.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\EntradaDeDados\EntradaDeDados\obj\Debug\netcoreapp3.0\EntradaDeDados.AssemblyInfoInputs.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\EntradaDeDados\EntradaDeDados\obj\Debug\netcoreapp3.0\EntradaDeDados.AssemblyInfo.cs
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\EntradaDeDados\EntradaDeDados\obj\Debug\netcoreapp3.0\EntradaDeDados.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\EntradaDeDados\EntradaDeDados\obj\Debug\netcoreapp3.0\EntradaDeDados.pdb

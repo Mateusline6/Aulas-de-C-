@@ -1,0 +1,11 @@
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\Atribuição\Atribuição\bin\Debug\netcoreapp3.0\Atribuição.exe
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\Atribuição\Atribuição\bin\Debug\netcoreapp3.0\Atribuição.deps.json
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\Atribuição\Atribuição\bin\Debug\netcoreapp3.0\Atribuição.runtimeconfig.json
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\Atribuição\Atribuição\bin\Debug\netcoreapp3.0\Atribuição.runtimeconfig.dev.json
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\Atribuição\Atribuição\bin\Debug\netcoreapp3.0\Atribuição.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\Atribuição\Atribuição\bin\Debug\netcoreapp3.0\Atribuição.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\Atribuição\Atribuição\obj\Debug\netcoreapp3.0\Atribuição.csprojAssemblyReference.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\Atribuição\Atribuição\obj\Debug\netcoreapp3.0\Atribuição.AssemblyInfoInputs.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\Atribuição\Atribuição\obj\Debug\netcoreapp3.0\Atribuição.AssemblyInfo.cs
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\Atribuição\Atribuição\obj\Debug\netcoreapp3.0\Atribuição.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\Atribuição\Atribuição\obj\Debug\netcoreapp3.0\Atribuição.pdb

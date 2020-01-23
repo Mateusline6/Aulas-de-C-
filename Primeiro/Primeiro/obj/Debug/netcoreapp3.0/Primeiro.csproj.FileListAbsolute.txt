@@ -1,0 +1,11 @@
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\Primeiro\Primeiro\bin\Debug\netcoreapp3.0\Primeiro.exe
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\Primeiro\Primeiro\bin\Debug\netcoreapp3.0\Primeiro.deps.json
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\Primeiro\Primeiro\bin\Debug\netcoreapp3.0\Primeiro.runtimeconfig.json
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\Primeiro\Primeiro\bin\Debug\netcoreapp3.0\Primeiro.runtimeconfig.dev.json
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\Primeiro\Primeiro\bin\Debug\netcoreapp3.0\Primeiro.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\Primeiro\Primeiro\bin\Debug\netcoreapp3.0\Primeiro.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\Primeiro\Primeiro\obj\Debug\netcoreapp3.0\Primeiro.csprojAssemblyReference.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\Primeiro\Primeiro\obj\Debug\netcoreapp3.0\Primeiro.AssemblyInfoInputs.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\Primeiro\Primeiro\obj\Debug\netcoreapp3.0\Primeiro.AssemblyInfo.cs
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\Primeiro\Primeiro\obj\Debug\netcoreapp3.0\Primeiro.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\Primeiro\Primeiro\obj\Debug\netcoreapp3.0\Primeiro.pdb

@@ -1,0 +1,10 @@
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\AulaAritmeticos\AulaAritmeticos\bin\Debug\netcoreapp3.0\AulaAritmeticos.exe
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\AulaAritmeticos\AulaAritmeticos\bin\Debug\netcoreapp3.0\AulaAritmeticos.deps.json
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\AulaAritmeticos\AulaAritmeticos\bin\Debug\netcoreapp3.0\AulaAritmeticos.runtimeconfig.json
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\AulaAritmeticos\AulaAritmeticos\bin\Debug\netcoreapp3.0\AulaAritmeticos.runtimeconfig.dev.json
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\AulaAritmeticos\AulaAritmeticos\bin\Debug\netcoreapp3.0\AulaAritmeticos.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\AulaAritmeticos\AulaAritmeticos\bin\Debug\netcoreapp3.0\AulaAritmeticos.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\AulaAritmeticos\AulaAritmeticos\obj\Debug\netcoreapp3.0\AulaAritmeticos.AssemblyInfoInputs.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\AulaAritmeticos\AulaAritmeticos\obj\Debug\netcoreapp3.0\AulaAritmeticos.AssemblyInfo.cs
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\AulaAritmeticos\AulaAritmeticos\obj\Debug\netcoreapp3.0\AulaAritmeticos.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\AulaAritmeticos\AulaAritmeticos\obj\Debug\netcoreapp3.0\AulaAritmeticos.pdb
