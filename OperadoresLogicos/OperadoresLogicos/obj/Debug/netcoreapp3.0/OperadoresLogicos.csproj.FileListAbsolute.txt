@@ -1,0 +1,11 @@
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\OperadoresLogicos\OperadoresLogicos\bin\Debug\netcoreapp3.0\OperadoresLogicos.exe
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\OperadoresLogicos\OperadoresLogicos\bin\Debug\netcoreapp3.0\OperadoresLogicos.deps.json
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\OperadoresLogicos\OperadoresLogicos\bin\Debug\netcoreapp3.0\OperadoresLogicos.runtimeconfig.json
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\OperadoresLogicos\OperadoresLogicos\bin\Debug\netcoreapp3.0\OperadoresLogicos.runtimeconfig.dev.json
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\OperadoresLogicos\OperadoresLogicos\bin\Debug\netcoreapp3.0\OperadoresLogicos.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\OperadoresLogicos\OperadoresLogicos\bin\Debug\netcoreapp3.0\OperadoresLogicos.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\OperadoresLogicos\OperadoresLogicos\obj\Debug\netcoreapp3.0\OperadoresLogicos.csprojAssemblyReference.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\OperadoresLogicos\OperadoresLogicos\obj\Debug\netcoreapp3.0\OperadoresLogicos.AssemblyInfoInputs.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\OperadoresLogicos\OperadoresLogicos\obj\Debug\netcoreapp3.0\OperadoresLogicos.AssemblyInfo.cs
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\OperadoresLogicos\OperadoresLogicos\obj\Debug\netcoreapp3.0\OperadoresLogicos.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\OperadoresLogicos\OperadoresLogicos\obj\Debug\netcoreapp3.0\OperadoresLogicos.pdb

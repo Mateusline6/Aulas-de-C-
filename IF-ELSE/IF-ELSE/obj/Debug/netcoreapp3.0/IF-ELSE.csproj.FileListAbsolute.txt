@@ -1,0 +1,10 @@
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\IF-ELSE\IF-ELSE\obj\Debug\netcoreapp3.0\IF-ELSE.AssemblyInfoInputs.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\IF-ELSE\IF-ELSE\obj\Debug\netcoreapp3.0\IF-ELSE.AssemblyInfo.cs
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\IF-ELSE\IF-ELSE\bin\Debug\netcoreapp3.0\IF-ELSE.exe
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\IF-ELSE\IF-ELSE\bin\Debug\netcoreapp3.0\IF-ELSE.deps.json
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\IF-ELSE\IF-ELSE\bin\Debug\netcoreapp3.0\IF-ELSE.runtimeconfig.json
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\IF-ELSE\IF-ELSE\bin\Debug\netcoreapp3.0\IF-ELSE.runtimeconfig.dev.json
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\IF-ELSE\IF-ELSE\bin\Debug\netcoreapp3.0\IF-ELSE.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\IF-ELSE\IF-ELSE\bin\Debug\netcoreapp3.0\IF-ELSE.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\IF-ELSE\IF-ELSE\obj\Debug\netcoreapp3.0\IF-ELSE.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\IF-ELSE\IF-ELSE\obj\Debug\netcoreapp3.0\IF-ELSE.pdb
