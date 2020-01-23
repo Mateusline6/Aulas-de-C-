@@ -1,0 +1,10 @@
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\OperadoresComparativos\OperadoresComparativos\bin\Debug\netcoreapp3.0\OperadoresComparativos.exe
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\OperadoresComparativos\OperadoresComparativos\bin\Debug\netcoreapp3.0\OperadoresComparativos.deps.json
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\OperadoresComparativos\OperadoresComparativos\bin\Debug\netcoreapp3.0\OperadoresComparativos.runtimeconfig.json
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\OperadoresComparativos\OperadoresComparativos\bin\Debug\netcoreapp3.0\OperadoresComparativos.runtimeconfig.dev.json
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\OperadoresComparativos\OperadoresComparativos\bin\Debug\netcoreapp3.0\OperadoresComparativos.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\OperadoresComparativos\OperadoresComparativos\bin\Debug\netcoreapp3.0\OperadoresComparativos.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\OperadoresComparativos\OperadoresComparativos\obj\Debug\netcoreapp3.0\OperadoresComparativos.AssemblyInfoInputs.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\OperadoresComparativos\OperadoresComparativos\obj\Debug\netcoreapp3.0\OperadoresComparativos.AssemblyInfo.cs
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\OperadoresComparativos\OperadoresComparativos\obj\Debug\netcoreapp3.0\OperadoresComparativos.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\OperadoresComparativos\OperadoresComparativos\obj\Debug\netcoreapp3.0\OperadoresComparativos.pdb

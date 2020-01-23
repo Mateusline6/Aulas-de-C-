@@ -1,0 +1,11 @@
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExercicioFixação\ExercicioFixação\bin\Debug\netcoreapp3.0\ExercicioFixação.exe
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExercicioFixação\ExercicioFixação\bin\Debug\netcoreapp3.0\ExercicioFixação.deps.json
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExercicioFixação\ExercicioFixação\bin\Debug\netcoreapp3.0\ExercicioFixação.runtimeconfig.json
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExercicioFixação\ExercicioFixação\bin\Debug\netcoreapp3.0\ExercicioFixação.runtimeconfig.dev.json
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExercicioFixação\ExercicioFixação\bin\Debug\netcoreapp3.0\ExercicioFixação.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExercicioFixação\ExercicioFixação\bin\Debug\netcoreapp3.0\ExercicioFixação.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExercicioFixação\ExercicioFixação\obj\Debug\netcoreapp3.0\ExercicioFixação.csprojAssemblyReference.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExercicioFixação\ExercicioFixação\obj\Debug\netcoreapp3.0\ExercicioFixação.AssemblyInfoInputs.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExercicioFixação\ExercicioFixação\obj\Debug\netcoreapp3.0\ExercicioFixação.AssemblyInfo.cs
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExercicioFixação\ExercicioFixação\obj\Debug\netcoreapp3.0\ExercicioFixação.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExercicioFixação\ExercicioFixação\obj\Debug\netcoreapp3.0\ExercicioFixação.pdb
