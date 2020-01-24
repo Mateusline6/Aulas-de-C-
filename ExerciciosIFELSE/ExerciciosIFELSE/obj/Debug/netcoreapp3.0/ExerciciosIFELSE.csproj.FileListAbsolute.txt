@@ -1,0 +1,11 @@
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExerciciosIFELSE\ExerciciosIFELSE\obj\Debug\netcoreapp3.0\ExerciciosIFELSE.csprojAssemblyReference.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExerciciosIFELSE\ExerciciosIFELSE\obj\Debug\netcoreapp3.0\ExerciciosIFELSE.AssemblyInfoInputs.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExerciciosIFELSE\ExerciciosIFELSE\obj\Debug\netcoreapp3.0\ExerciciosIFELSE.AssemblyInfo.cs
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExerciciosIFELSE\ExerciciosIFELSE\bin\Debug\netcoreapp3.0\ExerciciosIFELSE.exe
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExerciciosIFELSE\ExerciciosIFELSE\bin\Debug\netcoreapp3.0\ExerciciosIFELSE.deps.json
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExerciciosIFELSE\ExerciciosIFELSE\bin\Debug\netcoreapp3.0\ExerciciosIFELSE.runtimeconfig.json
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExerciciosIFELSE\ExerciciosIFELSE\bin\Debug\netcoreapp3.0\ExerciciosIFELSE.runtimeconfig.dev.json
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExerciciosIFELSE\ExerciciosIFELSE\bin\Debug\netcoreapp3.0\ExerciciosIFELSE.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExerciciosIFELSE\ExerciciosIFELSE\bin\Debug\netcoreapp3.0\ExerciciosIFELSE.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExerciciosIFELSE\ExerciciosIFELSE\obj\Debug\netcoreapp3.0\ExerciciosIFELSE.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExerciciosIFELSE\ExerciciosIFELSE\obj\Debug\netcoreapp3.0\ExerciciosIFELSE.pdb

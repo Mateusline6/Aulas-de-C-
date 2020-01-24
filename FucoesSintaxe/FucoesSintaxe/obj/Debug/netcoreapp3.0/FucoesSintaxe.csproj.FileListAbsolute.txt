@@ -1,0 +1,11 @@
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\FucoesSintaxe\FucoesSintaxe\bin\Debug\netcoreapp3.0\FucoesSintaxe.exe
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\FucoesSintaxe\FucoesSintaxe\bin\Debug\netcoreapp3.0\FucoesSintaxe.deps.json
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\FucoesSintaxe\FucoesSintaxe\bin\Debug\netcoreapp3.0\FucoesSintaxe.runtimeconfig.json
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\FucoesSintaxe\FucoesSintaxe\bin\Debug\netcoreapp3.0\FucoesSintaxe.runtimeconfig.dev.json
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\FucoesSintaxe\FucoesSintaxe\bin\Debug\netcoreapp3.0\FucoesSintaxe.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\FucoesSintaxe\FucoesSintaxe\bin\Debug\netcoreapp3.0\FucoesSintaxe.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\FucoesSintaxe\FucoesSintaxe\obj\Debug\netcoreapp3.0\FucoesSintaxe.csprojAssemblyReference.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\FucoesSintaxe\FucoesSintaxe\obj\Debug\netcoreapp3.0\FucoesSintaxe.AssemblyInfoInputs.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\FucoesSintaxe\FucoesSintaxe\obj\Debug\netcoreapp3.0\FucoesSintaxe.AssemblyInfo.cs
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\FucoesSintaxe\FucoesSintaxe\obj\Debug\netcoreapp3.0\FucoesSintaxe.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\FucoesSintaxe\FucoesSintaxe\obj\Debug\netcoreapp3.0\FucoesSintaxe.pdb
