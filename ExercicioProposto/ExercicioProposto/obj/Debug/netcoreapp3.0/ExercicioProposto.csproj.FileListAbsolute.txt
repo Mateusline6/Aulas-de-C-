@@ -1,0 +1,11 @@
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExercicioProposto\ExercicioProposto\bin\Debug\netcoreapp3.0\ExercicioProposto.exe
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExercicioProposto\ExercicioProposto\bin\Debug\netcoreapp3.0\ExercicioProposto.deps.json
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExercicioProposto\ExercicioProposto\bin\Debug\netcoreapp3.0\ExercicioProposto.runtimeconfig.json
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExercicioProposto\ExercicioProposto\bin\Debug\netcoreapp3.0\ExercicioProposto.runtimeconfig.dev.json
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExercicioProposto\ExercicioProposto\bin\Debug\netcoreapp3.0\ExercicioProposto.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExercicioProposto\ExercicioProposto\bin\Debug\netcoreapp3.0\ExercicioProposto.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExercicioProposto\ExercicioProposto\obj\Debug\netcoreapp3.0\ExercicioProposto.csprojAssemblyReference.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExercicioProposto\ExercicioProposto\obj\Debug\netcoreapp3.0\ExercicioProposto.AssemblyInfoInputs.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExercicioProposto\ExercicioProposto\obj\Debug\netcoreapp3.0\ExercicioProposto.AssemblyInfo.cs
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExercicioProposto\ExercicioProposto\obj\Debug\netcoreapp3.0\ExercicioProposto.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExercicioProposto\ExercicioProposto\obj\Debug\netcoreapp3.0\ExercicioProposto.pdb

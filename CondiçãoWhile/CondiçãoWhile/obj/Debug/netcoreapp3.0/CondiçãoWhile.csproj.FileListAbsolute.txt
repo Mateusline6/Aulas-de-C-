@@ -1,0 +1,11 @@
+C:\Users\mateu\source\repos\CondiçãoWhile\CondiçãoWhile\bin\Debug\netcoreapp3.0\CondiçãoWhile.exe
+C:\Users\mateu\source\repos\CondiçãoWhile\CondiçãoWhile\bin\Debug\netcoreapp3.0\CondiçãoWhile.deps.json
+C:\Users\mateu\source\repos\CondiçãoWhile\CondiçãoWhile\bin\Debug\netcoreapp3.0\CondiçãoWhile.runtimeconfig.json
+C:\Users\mateu\source\repos\CondiçãoWhile\CondiçãoWhile\bin\Debug\netcoreapp3.0\CondiçãoWhile.runtimeconfig.dev.json
+C:\Users\mateu\source\repos\CondiçãoWhile\CondiçãoWhile\bin\Debug\netcoreapp3.0\CondiçãoWhile.dll
+C:\Users\mateu\source\repos\CondiçãoWhile\CondiçãoWhile\bin\Debug\netcoreapp3.0\CondiçãoWhile.pdb
+C:\Users\mateu\source\repos\CondiçãoWhile\CondiçãoWhile\obj\Debug\netcoreapp3.0\CondiçãoWhile.csprojAssemblyReference.cache
+C:\Users\mateu\source\repos\CondiçãoWhile\CondiçãoWhile\obj\Debug\netcoreapp3.0\CondiçãoWhile.AssemblyInfoInputs.cache
+C:\Users\mateu\source\repos\CondiçãoWhile\CondiçãoWhile\obj\Debug\netcoreapp3.0\CondiçãoWhile.AssemblyInfo.cs
+C:\Users\mateu\source\repos\CondiçãoWhile\CondiçãoWhile\obj\Debug\netcoreapp3.0\CondiçãoWhile.dll
+C:\Users\mateu\source\repos\CondiçãoWhile\CondiçãoWhile\obj\Debug\netcoreapp3.0\CondiçãoWhile.pdb
