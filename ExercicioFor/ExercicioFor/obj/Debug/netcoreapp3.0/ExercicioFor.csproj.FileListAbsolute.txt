@@ -1,0 +1,11 @@
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExercicioFor\ExercicioFor\obj\Debug\netcoreapp3.0\ExercicioFor.csprojAssemblyReference.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExercicioFor\ExercicioFor\obj\Debug\netcoreapp3.0\ExercicioFor.AssemblyInfoInputs.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExercicioFor\ExercicioFor\obj\Debug\netcoreapp3.0\ExercicioFor.AssemblyInfo.cs
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExercicioFor\ExercicioFor\bin\Debug\netcoreapp3.0\ExercicioFor.exe
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExercicioFor\ExercicioFor\bin\Debug\netcoreapp3.0\ExercicioFor.deps.json
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExercicioFor\ExercicioFor\bin\Debug\netcoreapp3.0\ExercicioFor.runtimeconfig.json
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExercicioFor\ExercicioFor\bin\Debug\netcoreapp3.0\ExercicioFor.runtimeconfig.dev.json
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExercicioFor\ExercicioFor\bin\Debug\netcoreapp3.0\ExercicioFor.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExercicioFor\ExercicioFor\bin\Debug\netcoreapp3.0\ExercicioFor.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExercicioFor\ExercicioFor\obj\Debug\netcoreapp3.0\ExercicioFor.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExercicioFor\ExercicioFor\obj\Debug\netcoreapp3.0\ExercicioFor.pdb

@@ -1,0 +1,11 @@
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExercicioDeR\ExercicioDeR\bin\Debug\netcoreapp3.0\ExercicioDeR.exe
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExercicioDeR\ExercicioDeR\bin\Debug\netcoreapp3.0\ExercicioDeR.deps.json
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExercicioDeR\ExercicioDeR\bin\Debug\netcoreapp3.0\ExercicioDeR.runtimeconfig.json
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExercicioDeR\ExercicioDeR\bin\Debug\netcoreapp3.0\ExercicioDeR.runtimeconfig.dev.json
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExercicioDeR\ExercicioDeR\bin\Debug\netcoreapp3.0\ExercicioDeR.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExercicioDeR\ExercicioDeR\bin\Debug\netcoreapp3.0\ExercicioDeR.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExercicioDeR\ExercicioDeR\obj\Debug\netcoreapp3.0\ExercicioDeR.csprojAssemblyReference.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExercicioDeR\ExercicioDeR\obj\Debug\netcoreapp3.0\ExercicioDeR.AssemblyInfoInputs.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExercicioDeR\ExercicioDeR\obj\Debug\netcoreapp3.0\ExercicioDeR.AssemblyInfo.cs
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExercicioDeR\ExercicioDeR\obj\Debug\netcoreapp3.0\ExercicioDeR.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ExercicioDeR\ExercicioDeR\obj\Debug\netcoreapp3.0\ExercicioDeR.pdb
