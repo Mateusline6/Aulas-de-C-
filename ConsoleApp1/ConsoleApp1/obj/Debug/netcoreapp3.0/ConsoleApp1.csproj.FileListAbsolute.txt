@@ -1,0 +1,10 @@
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.exe
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.deps.json
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.json
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\PrimeiroProjetoC#\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.pdb

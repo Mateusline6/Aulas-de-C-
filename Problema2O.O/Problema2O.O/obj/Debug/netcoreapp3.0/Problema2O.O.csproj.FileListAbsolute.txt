@@ -1,0 +1,11 @@
+C:\Users\mateu\source\repos\Problema2O.O\Problema2O.O\bin\Debug\netcoreapp3.0\Problema2O.O.exe
+C:\Users\mateu\source\repos\Problema2O.O\Problema2O.O\bin\Debug\netcoreapp3.0\Problema2O.O.deps.json
+C:\Users\mateu\source\repos\Problema2O.O\Problema2O.O\bin\Debug\netcoreapp3.0\Problema2O.O.runtimeconfig.json
+C:\Users\mateu\source\repos\Problema2O.O\Problema2O.O\bin\Debug\netcoreapp3.0\Problema2O.O.runtimeconfig.dev.json
+C:\Users\mateu\source\repos\Problema2O.O\Problema2O.O\bin\Debug\netcoreapp3.0\Problema2O.O.dll
+C:\Users\mateu\source\repos\Problema2O.O\Problema2O.O\bin\Debug\netcoreapp3.0\Problema2O.O.pdb
+C:\Users\mateu\source\repos\Problema2O.O\Problema2O.O\obj\Debug\netcoreapp3.0\Problema2O.O.csprojAssemblyReference.cache
+C:\Users\mateu\source\repos\Problema2O.O\Problema2O.O\obj\Debug\netcoreapp3.0\Problema2O.O.AssemblyInfoInputs.cache
+C:\Users\mateu\source\repos\Problema2O.O\Problema2O.O\obj\Debug\netcoreapp3.0\Problema2O.O.AssemblyInfo.cs
+C:\Users\mateu\source\repos\Problema2O.O\Problema2O.O\obj\Debug\netcoreapp3.0\Problema2O.O.dll
+C:\Users\mateu\source\repos\Problema2O.O\Problema2O.O\obj\Debug\netcoreapp3.0\Problema2O.O.pdb
